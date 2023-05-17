@@ -8,4 +8,4 @@ The exercise utilized bootstrap framework with several pre-styled layout and com
 
 ---
 
-copyrighted &#169; 2023 by [Angela Yu]. All rights reserved.
+credit goes to &#169; 2023 by [Angela Yu]. All rights reserved.
